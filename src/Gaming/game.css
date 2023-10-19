@@ -1,0 +1,202 @@
+#navbar123
+{
+    position: fixed;
+    top: 0px;
+    z-index: 2;
+    width: 100% !important;
+    left: 0px;
+}
+.videos_Sections_game
+{
+    width: 330px;
+    height: 95vh;
+    background-color: #fff;
+    margin-left: 0px !important;
+    position: fixed;
+    top: 60px;
+    left: 0px;
+    overflow: auto;
+   
+}
+.icons12
+{
+    float: right;
+    margin-right: 25px;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: -45px;
+    background-color: #f1f2f1;
+    padding: 5px 8px;
+    border-radius: 50%;
+}
+.vi
+{
+    font-weight: bolder;
+    color: black;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.search11 
+{
+    background-color:#f1f2f1;
+    width: 300px;
+    height: 35px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+.search11 .fa-search
+{
+    font-size: 20px;
+    font-weight: bolder;
+    color: gray;
+}
+.input_search11
+{
+    width: 250px;
+    height: 35px;
+    border-radius: 20px;
+    outline: none;
+    background: #f1f2f1;
+    margin-left: 10px;
+    border: none;
+}
+.list
+{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.list i
+{
+    background-color: #f1f2f1;
+    padding: 10px 10px;
+    margin: 0px 0px;
+    border-radius: 50%;
+}
+.vsual1
+{
+    margin-top: 20px;
+    padding: 15px 10px;
+    width: 250px;
+}
+.spa
+{
+    margin-left: 10px;
+    font-weight: bolder;
+    color: black;
+}
+.active1
+{
+    color:blue;
+    background-color: blue;
+    
+}
+.vsual1:hover
+{
+    background-color: #f1f2f1;
+    border-radius: 10px;
+
+}
+.images_cards
+{
+    width: 670px;
+    height: 400px;
+}
+.profile_images1
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 10px 20px;
+}
+.fel span
+{
+    float: right;
+    margin-right: 30px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+
+.call
+{
+    float: right;
+    margin-right: 50px;
+}
+
+.back1
+{
+    background-color: rgb(182, 182, 255);
+    color: blue;
+    padding: 5px 10px;
+    width: 250px;
+    margin: 10px 20px ;
+    border-radius: 10px;
+}
+.bode1
+{
+    border-bottom: solid 1px gray;
+    width: 290px;
+    margin: 15px 13px;
+}
+.spans_le
+{
+    float: right;
+    margin-right: 20px;
+}
+.titles12
+{
+    width: 250px;
+    font-size: 15px;
+}
+.vssu:hover
+{
+    background-color: #f1f2f1;
+    border-radius: 10px;
+}
+.vssu 
+{
+    margin-top: 10px;
+    padding: 10px 10px;
+    width: 250px;
+    margin-left: 20px;
+}
+.allGames_icons
+{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.game_ikus i
+{
+    background-color: rgb(240, 234, 234);
+    padding: 10px 12px;
+    border-radius: 50%;
+   
+}
+.game_ikus
+{
+    margin: 18px 0px;
+    padding: 12px 5px;
+    width: 290px;
+    border-radius: 10px;
+    color: rgb(32, 32, 32);
+}
+.game_ikus:hover
+{
+    background-color: #f1f2f1;
+}
+.but
+{
+    color:black;
+    background-color: #f1f2f1;
+    border-radius: 30px;
+    padding: 5px 0px;
+    text-align: center;
+}
+.titles1234
+{
+    color: white;
+    font-size: 15px;
+}
